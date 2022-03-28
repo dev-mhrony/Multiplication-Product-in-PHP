@@ -5,4 +5,4 @@ How to product in PHP
 
 ### How To Product in PHP
 
-Check Detiels in This Reposetory 
+Check Detials in This Reposetory 
